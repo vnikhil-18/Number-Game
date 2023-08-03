@@ -1,0 +1,3 @@
+# Number-Game
+A basic number name using pure C++
+Our Project is an Arrange Puzzle Game for the grids of size ranging from 2x2 to 9x9. Initially the input n is taken from user and accordingly numbers ranging from 1 to n2-1 and a space are randomly displayed in a nxn grid. Now, using w, a, s, d keys, the user should move the space to finally arrange the numbers in ascending order with space at the last to win. ‘w’ is used to move the space up, ‘s’ to move it down, ‘a’ to move it left and ‘d’ to move it right. Number of moves is also displayed corresponding to every move. “Invalid Move” is also displayed when the move by the user is not a valid move.
